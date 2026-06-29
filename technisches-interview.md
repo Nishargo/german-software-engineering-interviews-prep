@@ -116,3 +116,4 @@ Oft basieren die Fragen direkt auf Ihrem Lebenslauf und zielen darauf ab, zu ver
 * Welche CI/CD Tools nutzt ihr?
 * Wie wird Authentifizierung bei euch umgesetzt?
 * Welche größten technischen Herausforderungen habt ihr aktuell?
+* Benutzen Sie KI-Tools?
